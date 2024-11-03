@@ -4,7 +4,7 @@
   <img src="https://i.imgur.com/LqfrHuF.png" alt="Logo del Paquete">
 </div>
 
-Esta implementación ofrece una herramienta poderosa para realizar búsquedas fonéticas en español, abordando las particularidades del idioma y facilitando la comparación y análisis de palabras basadas en su sonido.
+Esta implementación ofrece una herramienta poderosa para realizar búsquedas fonéticas en español, abordando las particularidades del idioma, facilitando la comparación y análisis de palabras basadas en su sonido. Ideal para ayudar con analfabetismo y personas que deseen aprender el idioma.
 
 ## Uso
 
@@ -18,8 +18,8 @@ void main() {
   String palabra2 = 'kasa';
 
   // Obtener el código fonético de una palabra
-  String codigoFonético = SpanishPhonetic.getPhoneticCode(palabra1);
-  print('Código fonético de $palabra1: $codigoFonético');
+  String codigoFonetico = SpanishPhonetic.getPhoneticCode(palabra1);
+  print('Código fonético de $palabra1: $codigoFonetico');
 
   // Comparar si dos palabras suenan similar
   bool sonSimilares = SpanishPhonetic.areSimilar(palabra1, palabra2);
