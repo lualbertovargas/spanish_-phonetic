@@ -1,0 +1,24 @@
+name: spanish_phonetic_search
+description: "A package for phonetic searching in Spanish"
+version: 0.0.1
+homepage: https://github.com/lualbertovargas/spanish_phonetic_search
+
+environment:
+  sdk: ^3.5.3
+  flutter: ">=1.17.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^4.0.0
+
+# Para más información sobre la parte genérica de Dart de este archivo, consulta:
+# https://dart.dev/tools/pub/pubspec
+
+
+flutter:
+
