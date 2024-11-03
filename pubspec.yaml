@@ -1,6 +1,6 @@
 name: spanish_phonetic_search
 description: "A package for phonetic searching in Spanish"
-version: 0.0.2
+version: 0.0.3
 homepage: https://github.com/lualbertovargas/spanish_phonetic_search
 
 environment:

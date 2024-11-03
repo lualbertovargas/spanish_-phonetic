@@ -4,7 +4,7 @@
   <img src="https://i.imgur.com/LqfrHuF.png" alt="Logo del Paquete">
 </div>
 
-Este paquete proporciona una implementación del algoritmo Metaphone para el español, permitiendo la búsqueda fonética de palabras.
+Esta implementación ofrece una herramienta poderosa para realizar búsquedas fonéticas en español, abordando las particularidades del idioma y facilitando la comparación y análisis de palabras basadas en su sonido.
 
 ## Uso
 
