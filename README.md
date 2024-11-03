@@ -1,6 +1,8 @@
 # spanish_-phonetic
 
-![Logo del Paquete](https://i.imgur.com/yQRYJBh.jpeg)
+<div align="center">
+  <img src="https://i.imgur.com/LqfrHuF.png" alt="Logo del Paquete">
+</div>
 
 Este paquete proporciona una implementación del algoritmo Metaphone para el español, permitiendo la búsqueda fonética de palabras.
 
